@@ -1,0 +1,18 @@
+arms-ecommerce/
+│
+├── index.html
+├── style.css
+├── script.j
+├── assets/
+│   ├── images/
+│   │   ├── hero-bg.jpg
+│   │   ├── product1.jpg
+│   │   ├── product2.jpg
+│   │   └── product3.jpg
+│   └── icons/
+│       └── cart.svg
+│
+├── README.md
+├── .gitignore
+└── package.json   (optional, for npm)
+
