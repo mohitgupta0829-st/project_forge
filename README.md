@@ -1,4 +1,4 @@
-# firstrepo-demotis
-this is my first demo  repository
+# Project_Forge
+this is our first project  repository
 <br>
-Auther - Mohit (hello)
+Authers - Mohit & Mayank
