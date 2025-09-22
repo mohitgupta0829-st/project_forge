@@ -34,3 +34,6 @@ document.querySelectorAll(".btn-secondary").forEach(btn => {
     alert("Item added to cart 🛒");
   });
 });
+
+
+

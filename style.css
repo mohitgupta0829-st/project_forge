@@ -163,14 +163,6 @@ nav ul li a.active {
   background: #ff4500;
   color: #fff;
 }
-
-/* About */
-.about {
-  padding: 60px 40px;
-  background: #161b22;
-  text-align: center;
-}
-
 /* Contact */
 .contact {
   padding: 60px 40px;
@@ -198,3 +190,43 @@ footer {
   font-size: 0.9rem;
   color: #8b949e;
 }
+/* About Page Hero */
+.about-hero {
+  background: url("assets/images/about-bg.jpg") no-repeat center center/cover;
+  height: 50vh;
+}
+.about-hero::after {
+  background: rgba(0, 0, 0, 0.6);
+}
+.about-hero .hero-text h1 {
+  font-size: 3rem;
+}
+
+/* About Page Content */
+.about-page {
+  padding: 60px 40px;
+  background: #0d1117;
+  color: #f0f6fc;
+}
+.about-page .container {
+  max-width: 900px;
+  margin: auto;
+}
+.about-page h2 {
+  color: #ff4500;
+  margin-top: 30px;
+}
+.about-page p {
+  margin: 15px 0;
+  line-height: 1.7;
+}
+.about-page ul {
+  list-style: none;
+  margin-top: 15px;
+}
+.about-page ul li {
+  margin: 10px 0;
+  font-size: 1.1rem;
+  color: #f0f6fc;
+}
+
